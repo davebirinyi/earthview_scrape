@@ -9,3 +9,8 @@ To run this script:
 2. In your terminal, navigate to where you saved the file.
 3. Enter `ruby earthview_scrape.rb`
 4. Answer the prompt.
+5. Watch the many hundreds of images pour in.
+
+Note: This script has several gem dependencies. If you do not have them installed already, you will need the gems for [JSON](https://rubygems.org/gems/json/) and [Addressable](https://rubygems.org/gems/addressable/)
+`gem install json`
+`gem install addressable`
