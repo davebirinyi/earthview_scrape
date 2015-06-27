@@ -80,7 +80,7 @@ end
               "spectacular."
 @warning_msg = "WARNING: The collection contains more than 1500 images, "\
               "requiring just over a gigabyte of free space. Downloading "\
-              "may take a while."
+              "will take a while."
 puts ''
 puts @welcome_msg
 puts ''
